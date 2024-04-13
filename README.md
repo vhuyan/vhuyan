@@ -1,3 +1,5 @@
+![logo](https://github.com/vhuyan/vhuyan/blob/main/Banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Mohammad Rakib Bhuyan</h1>
 <h3 align="center">A passionate Data Analyst and Software Developer from Germany</h3>
 
